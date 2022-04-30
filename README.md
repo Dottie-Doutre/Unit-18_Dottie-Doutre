@@ -30,12 +30,12 @@ Test the PyChain Ledger by Storing Records.
 
 The code that conducts the steps in recording, storing data and validating the transactions on the blockchain ledger is within the "Starter_Code" folder.
 
-PyChain.py is a VS Code file containing the code. To open and use it in a user-friendly interface:
+PyChain.py is a VS Code file containing the code. To open and use it within a user-friendly interface, follow the steps below:
 
 1. Open your GitBash or Terminal.
-2. Pip install streamlit (if not already done so).
-3. Navigate to where the PyChain.py file is stored.
-4. Activate your dev environment.
+2. Activate your dev environment.
+3. Pip install streamlit (if not already done so).
+4. Navigate to the folder where the PyChain.py file is stored.
 5. Input into GitBash or Terminal $ streamlit run pychain.py
 
 This will then open on your local host URL.
@@ -44,7 +44,7 @@ The interface in which you can interact with the ledger utilies an application c
 
 Streamlit is an application in which it runs data scripts into a shareable web app. It is an open-source and can utilise python coding to create products such as the ledger shown below.
 
-It has many components, visualisatins and widgets which enchance the userability and presentaton of said project.
+It has many components, visualisations and widgets which enchance the userability and presentaton of said project.
 
 ## Demo streamlit pychain.py:
 
