@@ -2,7 +2,7 @@
 
 ## Assignment by Dorothy Doutre
 
-![image_add](images/application-image.png)
+![image_add](https://github.com/Dottie-Doutre/Unit-18_Dottie-Doutre/blob/main/Images/application-image.png?raw=true)
 
 ## Assignment Summary:
 
@@ -48,4 +48,4 @@ It has many components, visualisatins and widgets which enchance the userability
 
 ## Demo streamlit pychain.py:
 
-![image_add](images/Streamlit_demo_DD.gif)
+![image_add](https://github.com/Dottie-Doutre/Unit-18_Dottie-Doutre/blob/main/Images/Streamlit_demo_DD.gif?raw=true)
